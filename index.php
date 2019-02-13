@@ -21,6 +21,7 @@
     <?php
         include 'pages/list.php';
         include 'pages/field.php';
+        include 'pages/footer.php';
     ?>
     </body>
 

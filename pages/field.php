@@ -1,6 +1,6 @@
 <div style="margin-left: 25%;" >
     <h1 id="word" class="display-1">Scrambler</h1>
-    <div id="actions" style="display:none;">
+    <div id="actions" style="display:none;" class="form-group">
         <input id="guess" placeholder="Minēt..." class="form-control" type="text" style="font-size:40pt;height: 100px" />
     
         <button id="submitGuess" class="btn btn-primary" style="width: 98%;margin: 10px"> Minēt </button>
