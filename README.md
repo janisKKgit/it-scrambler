@@ -16,3 +16,13 @@ Vendors used are
 <li> Bootstrap 4.1.3
 <li> EasyTimer 3.0.1
 </ul> 
+
+# Version 0.1.0
+<ul>
+<li> Adds sounds
+<li> Adds winning streak
+<li> Fixes deletion
+<li> Code refactoring
+<li> Adds new words
+<li> Added proper element focus after button press
+</ul> 
