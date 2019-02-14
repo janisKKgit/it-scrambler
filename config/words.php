@@ -208,5 +208,5 @@ $words = [
     "laravel",
     "angular",
     "wordpress",
-    "scraper",
+    "scraper"
 ];
