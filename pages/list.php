@@ -9,7 +9,6 @@
             </tr>
         </thead>
        <tbody>
-            <tr>
                 <?php
                     foreach ($people as $person) {
                         echo "<tr personId='".$person['id']."'>";
@@ -20,7 +19,6 @@
                         echo "</tr>";
                     }
                 ?>
-            </tr>
         </tbody>
     </table>
 </div>
